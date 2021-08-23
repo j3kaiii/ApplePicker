@@ -1,3 +1,3 @@
 # ApplePicker
 
-Simpe game created with Unity3d
+Simple game created with Unity3d
